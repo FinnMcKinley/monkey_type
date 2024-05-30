@@ -15,5 +15,9 @@ While your here check out some of my other projects! Im always looking for inspi
 
 This project uses the shakespare.txt as an example which was created by Blake Sanie: 
 https://gist.github.com/blakesanie/dde3a2b7e698f52f389532b4b52bc254
-As well as this big.txt file:
+
+This big.txt file:
 https://github.com/dscape/spell/blob/master/test/resources/big.txt
+
+And finally example.txt from:
+https://filesampleshub.com/format/document/txt
