@@ -11,6 +11,7 @@ def read_file(filename):
     """ Reads a file given from filename and returns file content """
     file = open(filename)
     lines = file.read().splitlines()
+    file.close()
     return lines
 
 def character_map(lines):
